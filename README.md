@@ -3,6 +3,7 @@ This is an implementation of [Fermat's factorization method](https://en.wikipedi
 
 # How to run
 Run the following command:
+
 $ g++ factor.cpp -o factor
 
 $./factor
